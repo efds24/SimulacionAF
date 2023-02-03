@@ -20,3 +20,5 @@ y una cadena de entrada indica el estado de salida.
 - Pulsar el botón Seleccionar archivo
 - Escribir la cadena
 - Pulsar el botón Empezar
+
+El archivo maquinaExpendedora.txt es un ejemplo de definición de un autómata que simula el funcionamiento de una máquina expendedora, un ejemplo de cadena de entrada para este autómata es "152ac22bd1c2c".
