@@ -1,6 +1,0 @@
-Abrir archivo P2.jar
-Pulsar el botón ...
-Seleccionar el archivo con la descripción del autómata
-Pulsar el botón Seleccionar archivo
-Escribir la cadena
-Pulsar el botón Empezar
